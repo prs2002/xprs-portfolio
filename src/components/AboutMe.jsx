@@ -5,7 +5,7 @@ import { HiOutlineDownload } from 'react-icons/hi';
 import { TbBrandGithubFilled } from 'react-icons/tb'
 import { MdOpenInNew } from 'react-icons/md';
 import { FaArrowRightLong,FaLinkedin } from 'react-icons/fa6';
-import Resume from '/assets/pdf/Praneetsresume.pdf';
+import Resume from '/assets/pdf/PraneetsResume.pdf';
 
 function AboutMe() {
   return (
@@ -95,7 +95,7 @@ function AboutMe() {
                     <MdOpenInNew size={30} />
                   </button>
                 </a>
-                <a href={Resume} download="Praneetsresume.pdf">
+                <a href={Resume} download="PraneetsResume.pdf">
                   <button className='about--button--download'>
                     <HiOutlineDownload size={30} />
                   </button>
