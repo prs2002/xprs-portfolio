@@ -1,9 +1,6 @@
 import React from 'react'
 import './style/Footer.css'
-import { SiLinkedin } from "react-icons/si";
-import { SiTwitter } from "react-icons/si";
-import { SiGithub } from "react-icons/si";
-import { SiLeetcode } from "react-icons/si";
+import { SiLinkedin, SiTwitter, SiGithub, SiLeetcode } from "react-icons/si";
 
 function Footer() {
   return (
