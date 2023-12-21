@@ -1,8 +1,7 @@
 import React from 'react'
 import './style/Project.css'
 import { projects } from './data';
-import { TbWorld } from 'react-icons/tb'
-import { TbBrandGithubFilled } from 'react-icons/tb'
+import { TbWorld, TbBrandGithubFilled } from 'react-icons/tb'
 
 function Project() {
   return (
