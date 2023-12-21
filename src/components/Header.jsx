@@ -23,7 +23,7 @@ function Header() {
     <nav className="navbar">
       <div className="container">
         <h1 onClick={toggleEmojis}>
-          &lt;Praneet {emoji}&gt;
+          &lt;|Praneet {emoji}|&gt;
         </h1>
         <div className="menu-icon" onClick={handleShowNavbar}>
           <HiMenu size={25} />
