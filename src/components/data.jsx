@@ -13,8 +13,8 @@ export const projects = [
     title: "My-Portfolio",
     description: "Discover my portfolio website, built with React.js and an array of libraries. Experience a showcase of my projects and skills in a user-friendly and engaging format.",
     image: Portfolio,
-    github: "https://github.com/khushie45/portfolio-website",
-    demo: "https://khushipatel.dev/"
+    github: "https://github.com/prs2002/prs-portfolio",
+    demo: "https://praneetsuyal.netlify.app/"
   },
 
 ];
