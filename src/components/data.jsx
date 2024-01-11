@@ -16,5 +16,12 @@ export const projects = [
     github: "https://github.com/prs2002/prs-portfolio",
     demo: "https://praneetsuyal.netlify.app/"
   },
+  {
+    title: "CarDekho clone",
+    description: "MERN-powered car search app: with user-friendly web interface inspired by carDekho and a focus on replicating its core functionalities. (Ongoing project) ",
+    image: Portfolio,
+    github: "https://github.com/prs2002/CarDekho-clone",
+    demo: ""
+  },
 
 ];
