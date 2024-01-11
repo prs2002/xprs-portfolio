@@ -1,5 +1,6 @@
 import techEmporium from '/assets/images/techEmporium.png'
 import Portfolio from '/assets/images/Portfolio.png'
+import carDekho from '/assets/images/carDekho.png'
 
 export const projects = [
   {
@@ -19,7 +20,7 @@ export const projects = [
   {
     title: "CarDekho clone",
     description: "MERN-powered car search app: with user-friendly web interface inspired by carDekho and a focus on replicating its core functionalities. (Ongoing project) ",
-    image: Portfolio,
+    image: carDekho,
     github: "https://github.com/prs2002/CarDekho-clone",
     demo: ""
   },
